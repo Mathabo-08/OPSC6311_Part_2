@@ -1,3 +1,6 @@
+Link to my App Video: https://youtu.be/eHuUoc0wYTc
+
+
 Welcome to Zenith, 'your financial compass'! I'll show you just how easy it is to track your budget and gain valuable insights into your spending.
 
 So let's start by opening the app, by clicking the app icon. Once you have clicked the icon, the app opens to a welcome screen. As you can see, the welcome screen consist of the app logo and a button at the bottom of the screen. Next click on the button to navigate to the Login screen. 
